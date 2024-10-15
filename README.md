@@ -17,9 +17,8 @@
 
   
  ### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <a href="https://www.linkedin.com/in/gabriel-alves-vitebo-2978ab177/">
  <img style="border-radius: 50%;" src="https://github.com/gabriel-vitebo.png" width="100px;" alt="Foto de perfil do github de Gabriel Vitebo"/>
